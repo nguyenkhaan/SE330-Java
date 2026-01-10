@@ -1,4 +1,4 @@
-package Bai3;
+package Bai03;
 import java.util.*;
 interface AMuA {
     public int calc(int a);  //khonh duoc phep khai bao method static vu static dung chung, ma moi class implement cair ing

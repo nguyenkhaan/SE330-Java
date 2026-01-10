@@ -1,4 +1,4 @@
-package Bai3;
+package Bai03;
 import Utlis.Helper;
 public class PhanSo {
     int ts, ms;
